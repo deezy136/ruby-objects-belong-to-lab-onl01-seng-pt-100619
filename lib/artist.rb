@@ -4,4 +4,4 @@ class Artist
   
 end 
 
-p artist = Artist.new 
+p artist = Artist.new
